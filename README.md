@@ -6,5 +6,8 @@
 
 I make no apologies for the spaghetti-code you will find here. Hope this helps someone understand how to convert geometry and lightmaps from Unity to three.js space.
 
+How to use: paste into your assets folder
+Window > Ex Machina Soft > Export Selection to three.js.
+
 My discord:
 https://discord.gg/d5qCq7YRGt
